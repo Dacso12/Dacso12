@@ -1,9 +1,4 @@
-## About me! 💻
 
-- 🔭 I’m a Manual and Automation Tester
-- 🌱 I’m currently learning more about Automation
-
-Hello there, I am a QA Engineer who loves to improve software quality and is always ready to help as much as possible. If you would like to use my services, you can send me an email or a message on Discord (davidmajoros00@gmail.com, tweak707).
 
 ### Tech Stack:
 
