@@ -1,10 +1,32 @@
+# Hi, I'm Dávid 👋
+
+**Full-stack web developer – Symfony & Angular.**
+I build web applications and automate repetitive workflows for small and medium-sized businesses: online quote requests, booking systems, customer records, integrations and admin panels
+
+📍 Serbia (CET) · English · Hungarian · Serbian · 🟢 Open to freelance projects and contract work
+
+---
+
+###  What I work with
+
+**Backend**
+
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-### Tech Stack:
+A workflow automation system for service businesses (HVAC, repair shops): online quote requests, appointment booking, automatic maintenance reminders and customer records – built with **Symfony + Angular**.
 
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Playwright](https://img.shields.io/badge/playwright-2E2E2E?style=for-the-badge&logo=playwright&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Excel](https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Get in touch
+
+-  Website: [davidmajoros.dev](https://davidmajoros.dev)
+-  Email: [davidmajoros00@gmail.com](mailto:davidmajoros00@gmail.com)
+-  LinkedIn: [linkedin.com/in/david-majoros](https://www.linkedin.com/in/david-majoros/)
+
+Happy to help with new projects, extra development capacity for agencies, or white-label work.
